@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - iSendPro Telecom",
+	"description": "This is a repository of isendpro telecom APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/isendpro-telecom.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://isendpro-telecom.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "iSendPro Telecom",
+			"x-api-slug": "isendpro-telecom",
+			"description": "Solution denvoi de SMS pro direct Oprateur. Oprateur Franais, Qualit Garantie Sans Engagement et Sans Dlai.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28430-api-i-send-pro.jpg",
+			"humanURL": "http://isendpro.com",
+			"baseURL": "https://apirest.isendpro.com//cgi-bin",
+			"tags": "iSendPro Telecom",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/isendpro-telecom/master/_listings/isendpro-telecom/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "iSendPro Telecom",
+	"include": [
+		{
+			"name": "iSendPro Telecom",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/isendpro-telecom/master/_listings/isendpro-telecom/apis.yaml"
+		}
+	]
+}
